@@ -1,8 +1,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 
-int main (int argc, char** argv)
+main ()
 {
-fprintf("YOLO");
-return 0;
+printf("YOLO");
 }
